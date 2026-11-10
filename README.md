@@ -85,7 +85,7 @@ To publish a new version, change the number in `VERSION` and push. A GitHub Acti
 
 ## Credits
 
-- Pack by **Rajesh Divakaran** ([@CreativeBuilds1236](https://github.com/CreativeBuilds1236))
+- Pack by **CreativeBuilds1236** ([@CreativeBuilds1236](https://github.com/CreativeBuilds1236))
 - Malayalam glyphs drawn from [Noto Sans Malayalam](https://github.com/notofonts/malayalam), © The Noto Project Authors, under the SIL Open Font License 1.1 (see `pack/FONT-LICENSE.txt`)
 
 MalayalamCraft is a fan-made resource pack. It is not an official Minecraft product and is not approved by or associated with Mojang or Microsoft.
