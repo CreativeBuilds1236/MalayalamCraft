@@ -81,6 +81,8 @@ pack/      the resource pack, unzipped (this is what goes in the release zip)
 images/    banner and screenshots used in this README
 ```
 
+To publish a new version, change the number in `VERSION` and push. A GitHub Action zips `pack/` and creates the release.
+
 ## Credits
 
 - Pack by **Rajesh Divakaran** ([@CreativeBuilds1236](https://github.com/CreativeBuilds1236))
